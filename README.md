@@ -24,11 +24,6 @@ backend/            # FastAPI / Flask API 서버 코드
 frontend/           # 웹 인터페이스 (UI)
 README.md           # 프로젝트 소개 문서
 
-## 📅 개발 로드맵
-* **Phase 1:** 환경 설정, Git 저장소 구축 및 오픈소스 데이터셋 수집
-* **Phase 2:** 데이터 전처리, URL 특징 추출 및 AI 분류 모델 학습
-* **Phase 3:** Backend API 구현 및 웹 UI 연동
-* **Phase 4:** 통합 테스트, 성능 최적화 및 최종 보고서 작성
 
 
 
@@ -57,7 +52,7 @@ backend/            # API server code (FastAPI / Flask)
 frontend/           # Web interface (UI)
 README.md           # Project documentation
 
-## 📅 Development Roadmap
+## 📅 Roadmap
 * **Phase 1:** Environment setup, Git repository initialization, and open-source dataset collection
 * **Phase 2:** Data preprocessing, URL feature extraction, and AI classification model training
 * **Phase 3:** Backend API implementation and Web UI integration
